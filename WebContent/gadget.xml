@@ -8,7 +8,7 @@
  <html> 
  <body> 
  <script> function add() { google.calendar.addCalendar("en.usa#holiday@group.v.calendar.google.com", "US Holidays"); } </script> 
- <center> <button onclick="add()">Add trouba</button> </center> </body> </html>
+ <center> <button onclick="add()">Add trumbera</button> </center> </body> </html>
 ]]>
 </Content>
 </Module>
